@@ -1,5 +1,14 @@
 ﻿# Syndic8 Java Code Challenge
 
+There are 5 branches
+
+the Main branch only contain README
+
+***First_master is the first commit which including UML and frame class
+Second_master is the second commit which including two more class
+Third_master which including overwrite part
+The Final_master which is the final version***
+
 Used Eclipse IDE for Enterprise and Web Developer to finish this Code Challenge.
 
 Created a Dynamic Web Project
