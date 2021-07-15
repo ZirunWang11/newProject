@@ -20,14 +20,14 @@ public class Test {
 		}
 		
 		// test Create/POST function;
-		Image flower = new Image("xxx", "a red flower");
-		Image sun = new Image("sxxxun", "rising sun");
+		Image flower = new Image("water_pool", "a water pool");
+		Image sun = new Image("tree", "some green tree");
 
 		ArrayList<Image> images = new ArrayList<>();
 		images.add(flower);
 		images.add(sun);
 
-		Album landscape = new Album(images, "the landscape Album");
+		Album landscape = new Album(images, "the second landscape Album");
 
 		Product p = new Product("product2", "my second landsacpe product", landscape);
 		
