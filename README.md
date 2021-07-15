@@ -1,14 +1,14 @@
 ﻿# Syndic8 Java Code Challenge
 
+## Check Path
 There are 5 branches
 
-the Main branch only contain README
+ 1. Main branch only contain README
+ 2. First_master is the first commit which including UML and frame class
+ 3. Second_master is the second commit which including two more class
+ 4. Third_master which including overwrite part
+ 5. Final_master which is the final version
 
- **1. First_master is the first commit which including UML and frame class
- 2. Second_master is the second commit which including two more class
- 3. Third_master which including overwrite part  
- 4. Final_master which is the final version**
-    
 Used Eclipse IDE for Enterprise and Web Developer to finish this Code Challenge.
 
 Created a Dynamic Web Project
