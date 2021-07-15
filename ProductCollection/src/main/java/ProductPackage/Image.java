@@ -10,7 +10,7 @@ public class Image {
 	public Image() {
 		super();
 	}
-	
+	// create a constructor which including ArrayList<Album>, String title and String description
 	public Image(ArrayList<Album> albums, String title, String description) {
 		super();
 		this.albums = albums;

@@ -10,6 +10,7 @@ public class Product {
 	public Product() {
 		super();
 	}
+	// create a constructor which including String name, String Description and Album album
 	public Product(String name, String description, Album album) {
 		super();
 			this.name = name;

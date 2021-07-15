@@ -10,13 +10,14 @@ public class Album {
 	public Album() {
 		super();
 	}
-	
+	// create a constructor which including ArrayList<Image> and String Description
 	public Album(ArrayList<Image> images, String Description) {
 		super();
 		this.images = images;
 		this.Description = Description;
 		
-		if (images.size() > 0) { // connect Album to Image;
+		// connect Album to Image, since the one image can belong to many other album
+		if (images.size() > 0) { 
 			for(int i = 0; i < images.size(); i++) {
 				images.get(i).addAlbum(this);
 			}
