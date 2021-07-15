@@ -1,2 +1,0 @@
-# newProject
-Product Chanllenge
