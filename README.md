@@ -1,4 +1,4 @@
-﻿# Syndic8 Java Code Challenge
+Java Code Challenge
 
 ## Check Path
 There are 5 branches
